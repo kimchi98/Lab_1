@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b6821e0-0add-4907-ab16-36be1f407547</testCaseGuid>
+   <variable>
+      <defaultValue>'&quot;Jonh Doe&quot;\r\n'</defaultValue>
+      <description></description>
+      <id>6ac3aed5-28ca-4eec-ad16-0407140abac3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97f67f2c-d61c-41bb-b6d2-2bb5e9772184</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>
